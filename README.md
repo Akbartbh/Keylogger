@@ -6,6 +6,8 @@ A simple Python-based keystroke logger created for educational purposes.
   write this the terminal after running the code
   "py -m pip install pynput" or "pip install pynput".
 
+  Allow threat in the windows security.
+
 ## Features
 * Captures real-time keyboard input.
 * Saves logs locally to a text file.
