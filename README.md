@@ -4,7 +4,7 @@ A simple Python-based keystroke logger created for educational purposes.
 
 # MUST DO
   write this the terminal after running the code
-  "py -m pip install pynput".
+  "py -m pip install pynput" or "pip install pynput".
 
 ## Features
 * Captures real-time keyboard input.
